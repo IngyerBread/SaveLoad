@@ -10,7 +10,7 @@ namespace SaveLoad
     {
         static void Main(string[] args)
         {
-
+            int a = 0;
         }
     }
 }
